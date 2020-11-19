@@ -1,8 +1,32 @@
-# 11-express-homework
+# Title: 11-express-homework
 
-User Story:
-AS A user, I want to be able to write and save notes
+# Description: An application that can be used to write, save, and delete notes.
 
-I WANT to be able to delete notes I've written before
+# Table of Contents 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Username](#username)
+* [Email](#email)
 
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+# Installation: Run the command "node server.js" in the terminal.
+
+# Usage: Writing, saving, and deleting notes.
+
+# License: MIT License
+
+# Contributing: Kyle Allen
+
+# Tests: Run the application and see if you can write, save and delete a new note.
+
+# Username: Kallen478
+
+# Email: Kallen478@gmail.com
+
+Contact me with any questions via email
+
+<img src="screenshot-homework11.png" alt="screenshot of note taker app">
+
+https://github.com/Kallen478/11-express-homework
